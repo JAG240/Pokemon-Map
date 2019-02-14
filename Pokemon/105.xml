@@ -1,0 +1,15 @@
+<?xml-model href="PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<pokemon>
+    
+    <info>
+     <dexNum num="104">104</dexNum>
+     <name>Cubone</name>
+     <typing type="Ground">Ground</typing>
+    </info>
+    
+    <locations>
+        <landmark n="Victory Road">VIctory Road<lvl min="40" max="43"> level 40, 43</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="52" max="55">level 52,55</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
+    </locations>
+    
+    </pokemon>

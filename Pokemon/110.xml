@@ -1,0 +1,14 @@
+<?xml-model href="PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<pokemon>
+    
+    <info>
+     <dexNum num="110">110</dexNum>
+     <name>Weezing</name>
+     <typing type="Poison">Poison</typing>
+    </info>
+    
+    <locations>
+        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="37" max="42"> level 37-42</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
+    </locations>
+    
+    </pokemon>

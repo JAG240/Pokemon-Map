@@ -8,7 +8,7 @@
     </info>
     
     <locations>
-        <landmark n="Victory Road">VIctory Road<lvl min="40" max="43"> level 40, 43</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="40" max="43"> level 40, 43</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
         <landmark n="Cerulean Cave">Cerulean Cave<lvl min="52" max="55">level 52,55</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
     </locations>
     

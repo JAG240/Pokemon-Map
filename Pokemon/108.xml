@@ -1,0 +1,14 @@
+<?xml-model href="PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<pokemon>
+    
+    <info>
+     <dexNum num="108">108</dexNum>
+     <name>Lickitung</name>
+     <typing type="Normal">Normal</typing>
+    </info>
+    
+    <locations>
+        <route num="18">Route 18<lvl min="0" max="100"> level same as traded pokemon</lvl></route>
+    </locations>
+    
+    </pokemon>

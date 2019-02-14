@@ -1,0 +1,13 @@
+start = pokemon
+pokemon = element pokemon {info,locations}
+info = element info {dexNum, name, typing}
+dexNum = element dexNum {num, text}
+num = attribute num {xsd:integer}
+name = element name {text}
+typing = element typing {type, text}
+type = attribute type {text}
+locations = element locations {route*}
+route = element route {num, text, lvl}
+lvl = element lvl {min, max, text}
+min = attribute min {xsd:integer}
+max = attribute max {xsd:integer}

@@ -3,9 +3,9 @@
 <pokemon>
     
     <info>
-        <dexNum num="003">003</dexNum>
-        <name>Venusuar</name>
-        <typing type="Grass Poison">Grass Poison</typing>
+        <dexNum num="005">005</dexNum>
+        <name>Charmeleon</name>
+        <typing type="Fire">Fire</typing>
     </info>
     
     <locations>

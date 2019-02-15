@@ -3,13 +3,14 @@
 <pokemon>
     
     <info>
-        <dexNum num="003">003</dexNum>
-        <name>Venusuar</name>
-        <typing type="Grass Poison">Grass Poison</typing>
+        <dexNum num="004">004</dexNum>
+        <name>Charmander</name>
+        <typing type="Fire">Fire</typing>
     </info>
     
     <locations>
         
+        <landmark n="Pallet Town">Pallet town<lvl min="5" max="5">level 5</lvl></landmark>
     </locations>
     
 </pokemon>

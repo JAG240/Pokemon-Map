@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokemon>
+    
+    <info>
+        <dexNum num="002">002</dexNum>
+        <name>Ivysuar</name>
+        <typing type="Grass Poison">Grass Poison</typing>
+    </info>
+    
+    <locations>
+        
+    </locations>
+
+</pokemon>
+

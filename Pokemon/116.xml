@@ -1,4 +1,5 @@
-<?xml-model href="PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../schemas/PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <pokemon>
     
     <info>

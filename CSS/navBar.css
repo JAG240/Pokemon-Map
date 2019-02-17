@@ -1,0 +1,23 @@
+.navbar{
+    overflow:hidden;
+    background-color:#7a7a7a;
+    position:fixed;
+    top:0;
+    width:105%;
+    margin-left:-10px;
+}
+.navbar a{
+    float:left;
+    display:block;
+    color:#ffffff;
+    text-align:center;
+    padding:5px 8px;
+    text-decoration:none;
+}
+.navbar a:hover{
+    background:#ffffff;
+    color:#000000;
+}
+.main{
+    margin-top:60px;
+}

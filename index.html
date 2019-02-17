@@ -3,13 +3,24 @@
     <head>
         <title>My NewtFire Homepage</title>
         <meta charset="UTF-8" />
-        <meta name="author" content="My Name" />
+        <meta name="Pokemon Team" content="The Pokemon Map" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="CSS/MainPage.css"/>
+        <link rel="stylesheet" type="text/css" href="CSS/navBar.css"/>
     </head>
     <body>
+        <div class="navbar">
+            <a href="Locations/Test.html">Map</a>
+            <a href="Locations/Test.html">Pokemon</a>
+            <a href="Locations/Test.html">Routes</a>
+        </div>
+        <div class="main">
         <h1>Hello there! Welcome to the world of Pokemon!</h1>
-        <img src="Images/AllPokemon.png" alt="All Pokemon ever!" width="500" height="500"/>
-        <p><i>Coming Soon: </i>Map of a Pokemon Region(TBD)</p>
+        <img src="Images/Kanto.png" alt="Kanto Map" width="500" height="500" usemap="#Kanto"/>
+        <map name="Kanto">
+            <area shape="default" href="http://pokemon.newtfire.org/Locations/Test.html" alt="Kanto"></area>
+        </map>
+        <p><i>Coming Soon: </i>Map of a Kanto!!</p>
+            </div>
     </body>
 </html>

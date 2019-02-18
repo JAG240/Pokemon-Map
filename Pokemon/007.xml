@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<pokemon>
+    
+    <info>
+        <dexNum num="007">007</dexNum>
+        <name>Squirtle</name>
+        <typing type="Water">Water</typing>
+    </info>
+    
+    <locations>
+        <landmark n="Pallet Town">Pallet town<lvl min="5" max="5">level 100</lvl></landmark>
+    </locations>
+    
+</pokemon>
+

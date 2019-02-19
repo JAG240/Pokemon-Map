@@ -17,6 +17,7 @@
 .navbar a:hover{
     background:#ffffff;
     color:#000000;
+    text-decoration: overline red
 }
 .main{
     margin-top:60px;

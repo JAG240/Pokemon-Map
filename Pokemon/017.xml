@@ -1,4 +1,5 @@
-<?xml-model href="../schemas/PokemonSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../schemas/pokemonChecker.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <pokemon>
     
     <info>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/pokemonChecker.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<pokemon>
+    
+    <info>
+        <dexNum num="035">035</dexNum>
+        <name>Clefairy</name>
+        <typing type="Fairy">Fairy</typing>
+    </info>
+    
+    <locations>
+        <landmark n="Mt. Moon">Mt. Moon<lvl min="8" max="8">level 8</lvl><rate perc="1">encounter rate: 1%</rate></landmark>
+    </locations>
+    
+</pokemon>
+

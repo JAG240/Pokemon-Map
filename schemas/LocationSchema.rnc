@@ -1,0 +1,17 @@
+start = location
+location = element location {type, (name|route), des, PoI*, encounters*}
+type = attribute type {"city/town"|"landmark"|"route" }
+name = element name {n, text}
+n = attribute n {text}
+route = element route {num, text}
+num = attribute num {xsd:integer}
+des = element des {(pokemon|pref|pers|item|text)*}
+pokemon = element pokemon {dexNum, text}
+dexNum = attribute dexNum {xsd:integer}
+pref = element pref {text}
+pers = element pers {text}
+item = element item {text}
+PoI = element PoI {place*}
+place = element place {(pokemon|pref|pers|item|placeName|des)*}
+encounters = element encounters {pokemon*}
+placeName = element placeName {text}

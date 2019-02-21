@@ -1,0 +1,10 @@
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<location type="landmark">
+    <name n="Cerulean Cave">Cerulean Cave</name>
+    <des>Cerulean Cave is home to a wide variety of high-level wild Pokémon. <pokemon dexNum="150">Mewtwo</pokemon> inhabits the
+        deepest part of the cave</des>
+    <encounters>
+        <pokemon dexNum="024">Arbok</pokemon>
+        <pokemon dexNum="026">Raichu</pokemon>
+    </encounters>
+</location>

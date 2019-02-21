@@ -1,10 +1,11 @@
-<location type="landmark">
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<location type="city/town">
     <name n="Pallet Town">Pallet Town</name>
     <des>A fairly new and quiet town. It's a small and pretty place.</des>
     <PoI>
 
         <place>
-            <name>Professor Oak's Lab</name>
+            <placeName>Professor Oak's Lab</placeName>
             <des>In the southeast corner of town is Professor Oak's Lab. Here, Pokémon Trainers just
                 beginning their quest are given the choice to receive either a <pokemon dexNum="001"
                     >Bulbasaur</pokemon>, <pokemon dexNum="004">Charmander</pokemon>, or <pokemon
@@ -16,7 +17,7 @@
         </place>
 
         <place>
-            <name>Player's house</name>
+            <placeName>Player's house</placeName>
             <des>This house is where the <pers>player</pers> lives before beginning their journey.
                 The <pers>player's Mom</pers> lives here, and after the <pers>player</pers> has left
                 town for the first time, going home and talking to her will fully rest/restore all
@@ -24,7 +25,7 @@
         </place>
 
         <place>
-            <name>Rival's house</name>
+            <placeName>Rival's house</placeName>
             <des>After the <item>Pokédex</item> has been given to the player by <pers>Professor
                     Oak</pers>, the <pers>rival's sister</pers> will give the <pers>player</pers> a
                     <item>Town Map</item>.</des>

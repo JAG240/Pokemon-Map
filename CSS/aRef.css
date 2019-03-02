@@ -1,0 +1,15 @@
+.pokemon a:link{
+    background-color:#ffffff;
+    color:#000000;
+    text-align:center;
+}
+.pokemon a:visited{
+    background-color:#ffffff;
+    color:#1e58a0;
+    text-align:center;
+}
+.pokemon a:hover{
+    background-color:#e0e0e0;
+    color:#000000;
+    text-align:center;
+}

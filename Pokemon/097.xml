@@ -3,13 +3,13 @@
 <pokemon>
     
     <info>
-        <dexNum num="001">001</dexNum>
-        <name>Bulbasuar</name>
-        <typing type="Grass Poison">Grass Poison</typing>
+     <dexNum num="097">097</dexNum>
+     <name>Hypno</name>
+     <typing type="Psychic">Psychic</typing>
     </info>
     
     <locations>
-        <landmark n="Pallet Town">Pallet town<lvl min="5" max="5">level 5</lvl></landmark>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="46" max="46">level 46</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
     </locations>
     
-</pokemon>
+    </pokemon>

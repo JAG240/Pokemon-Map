@@ -1,14 +1,24 @@
-.pokemon a:link{
+.loc{
+    background-color:#ffffff;
+    width: 25%;
+    margin-top:60px;
+    margin-left:37%;
+}
+.loc h1{
+    color:#000000;
+    text-align:center;
+}
+.loc a:link{
     background-color:#ffffff;
     color:#000000;
     text-align:center;
 }
-.pokemon a:visited{
+.loc a:visited{
     background-color:#ffffff;
     color:#1e58a0;
     text-align:center;
 }
-.pokemon a:hover{
+.loc a:hover{
     background-color:#e0e0e0;
     color:#000000;
     text-align:center;

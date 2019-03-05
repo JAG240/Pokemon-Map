@@ -15,7 +15,7 @@
         <route num="3">Route 3<lvl min="6" max="8"> level 6-8</lvl><rate perc="50">encounter rate: 50%</rate></route>
         <route num="5">Route 5<lvl min="13" max="16"> level 13-16</lvl><rate perc="35">encounter rate: 35%</rate></route>
         <route num="6">Route 6<lvl min="13" max="16"> level 13-16</lvl><rate perc="40">encounter rate: 40%</rate></route>
-        <route num="7">Route 7<lvl min="19" max="2"> level 19-22</lvl><rate perc="35">encounter rate: 35%</rate></route>
+        <route num="7">Route 7<lvl min="19" max="22"> level 19-22</lvl><rate perc="35">encounter rate: 35%</rate></route>
         <route num="8">Route 8<lvl min="18" max="22"> level 18-22</lvl><rate perc="35">encounter rate: 35%</rate></route>
         <route num="12">Route 12<lvl min="23" max="27"> level 23-27</lvl><rate perc="35">encounter rate: 35%</rate></route>
         <route num="13">Route 13<lvl min="25" max="27"> level 25-27</lvl><rate perc="30">encounter rate: 30%</rate></route>

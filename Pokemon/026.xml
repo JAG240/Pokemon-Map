@@ -9,7 +9,7 @@
         <typing type="Raichu">Raichu</typing>
     </info>
     
-    <locations>>
+    <locations>
         <landmark n="Cerulean Cave">Cerulean Cave<lvl min="53" max="53">level 53</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
     </locations>
     

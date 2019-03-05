@@ -11,7 +11,7 @@
     
     <locations>
         <route num="10">Route 10<lvl min="23" max="23"> level 23</lvl><rate perc="50">encounter rate: 50%</rate></route>
-        <landmark n="Celadon City">Example town<lvl min="23" max="23">level 23</lvl><rate perc="50">encounter rate: 50%</rate></landmark>
+        <landmark n="Celadon City">Celadon City<lvl min="23" max="23">level 23</lvl><rate perc="50">encounter rate: 50%</rate></landmark>
     </locations>
     
 </pokemon>

@@ -11,7 +11,7 @@
     
     <locations>
         <landmark n="Safari Zone">Safari Zone<lvl min="32" max="32">level 32</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
-        <landmark n="Victory Road">Vitory Road<lvl min="40" max="40">level 40</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="40" max="40">level 40</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
         <landmark n="Cerulean Cave">Cerulean Cave<lvl min="49" max="49">level 49</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
     </locations>
     

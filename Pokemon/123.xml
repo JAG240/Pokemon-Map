@@ -5,7 +5,7 @@
     <info>
         <dexNum num="123">123</dexNum>
         <name>Scyther</name>
-        <typing type="Bug, Flying">Bug, Flying</typing>
+        <typing type="Bug Flying">Bug Flying</typing>
     </info>
     
     <locations>

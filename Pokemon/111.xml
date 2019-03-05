@@ -5,7 +5,7 @@
     <info>
      <dexNum num="111">111</dexNum>
      <name>Rhyhorn</name>
-     <typing type="Ground, Rock">Ground, Rock</typing>
+     <typing type="Ground Rock">Ground Rock</typing>
     </info>
     
     <locations>

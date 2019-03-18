@@ -21,3 +21,6 @@ h1{
     color:#000000;
     text-align:center;
 }
+area a:hover{
+    background-color:#ffffff;
+}

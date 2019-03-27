@@ -24,10 +24,9 @@ return
 for $l in $locs
 let $loc := $l/string()=>tokenize("level.+")
 
-if $l//rate=>exsist(.)
-let $rate := $l//rate/string()
-else
-let := $rate := 'N/A'
+return if($l//rate=>exsist(.))
+then let $rate := $l//rate/string()
+else let := $rate := 'N/A'
 
 let $level := $pokemon//locations//lvl/string()
 for $v in $level

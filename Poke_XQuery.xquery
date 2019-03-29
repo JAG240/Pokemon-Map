@@ -4,7 +4,7 @@ let $name := $p//name/string()
 let $dex := $p//dexNum/string()
 let $type := $p//typing/string()
 let $locs := $p//locations
-return 
+return
 <html>
 <head>
 <title>{$name}</title>
@@ -23,17 +23,16 @@ return
 {
 for $l in $locs
 let $loc := $l/string()=>tokenize("level.+")
+for $o in $loc
 
-return if($l//rate=>exsist(.))
-then let $rate := $l//rate/string()
-else let := $rate := 'N/A'
+let $lvl := $p//locations//lvl/string()
+for $i in $lvl
 
-let $level := $pokemon//locations//lvl/string()
-for $v in $level
+let $rate := $p//locations//rate/string()
+for $r in $rate
+return 
 
-return
-
-<tr><td>{$loc}</td><td>{$v}</td><td>{$rate}</td></tr>}
+<tr><td>{$o}</td><td>{$i}</td><td>{$r}</td></tr>}
 </table>
 </body>
 </html>

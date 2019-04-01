@@ -9,9 +9,9 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="37" max="39">level 37-39</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
-        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="23" max="23">level 23</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
-        <route num="23">route 23<lvl min="23" max="23">level 23</lvl><rate perc="25">encounter rate: 25%</rate></route>
+        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="37" max="39"> level 37-39</lvl><rate perc="4"> encounter rate: 4%</rate></landmark>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="23" max="23"> level 23</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
+        <route num="23">route 23<lvl min="23" max="23"> level 23</lvl><rate perc="25"> encounter rate: 25%</rate></route>
     </locations>
     
     </pokemon>

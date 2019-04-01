@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Power Plant">Power Plant<lvl min="33" max="36">Level: 33-36</lvl><rate perc="5">Enocunter rate: 5%</rate></landmark>
+        <landmark n="Power Plant">Power Plant<lvl min="33" max="36"> level: 33-36</lvl><rate perc="5"> enocunter rate: 5%</rate></landmark>
     </locations>
     
 </pokemon>

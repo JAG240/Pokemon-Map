@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Cerulean City">Cerulean City<lvl min="0" max="100">Same level as traded pokemon</lvl></landmark>
+        <landmark n="Cerulean City">Cerulean City<lvl min="0" max="100"> Same level as traded pokemon</lvl></landmark>
     </locations>
     
 </pokemon>

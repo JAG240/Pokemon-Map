@@ -9,8 +9,8 @@
     </info>
     
     <locations>
-        <route num="12">route 12<lvl min="30" max="30">level: 30</lvl></route>
-        <route num="16">route 16<lvl min="30" max="30">level: 30</lvl></route>
+        <route num="12">route 12<lvl min="30" max="30"> level: 30</lvl></route>
+        <route num="16">route 16<lvl min="30" max="30"> level: 30</lvl></route>
     </locations>
     
     </pokemon>

@@ -10,11 +10,11 @@
     
     <locations>
 
-        <landmark n="Seafoam Island"> Seafoam Island<lvl min="28" max="30"> level 28-30</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
+        <landmark n="Seafoam Island"> Seafoam Island<lvl min="28" max="30"> level 28-30</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
         <landmark n="Cinnabar Island"> Cinnabar Island<lvl min="15" max="15"> level 15</lvl><rate perc="25"> encounter rate 25%</rate></landmark>
-        <route num="19"> route 19<lvl min="15" max="15"> level 15</lvl><rate perc="25">encounter rate: 50%></rate></route>
-        <route num="20"> route 20<lvl min="15" max="15"> level 15</lvl><rate perc="25">encounter rate: 50%></rate></route>
-        <route num="21"> route 21<lvl min="15" max="15"> level 15</lvl><rate perc="25">encounter rate: 50%></rate></route>
+        <route num="19"> route 19<lvl min="15" max="15"> level 15</lvl><rate perc="25"> encounter rate: 50%</rate></route>
+        <route num="20"> route 20<lvl min="15" max="15"> level 15</lvl><rate perc="25"> encounter rate: 50%</rate></route>
+        <route num="21"> route 21<lvl min="15" max="15"> level 15</lvl><rate perc="25"> encounter rate: 50%</rate></route>
     </locations>
     
     </pokemon>

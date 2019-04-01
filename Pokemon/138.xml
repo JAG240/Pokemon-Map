@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Cinnabar Island">Cinnabar Island<lvl min="30" max="30">level: 30</lvl></landmark>
+        <landmark n="Cinnabar Island">Cinnabar Island<lvl min="30" max="30"> level: 30</lvl></landmark>
     </locations>
     
     </pokemon>

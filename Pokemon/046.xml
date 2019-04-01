@@ -10,8 +10,8 @@
     </info>
     
     <locations>
-        <landmark n="Mt. Moon">Mt. Moon<lvl min="8" max="8">level 8</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
-        <landmark n="Safari Zone">Safari Zone<lvl min="27" max="27">level 27</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
+        <landmark n="Mt. Moon">Mt. Moon<lvl min="8" max="8"> level 8</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
+        <landmark n="Safari Zone">Safari Zone<lvl min="27" max="27"> level 27</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
     </locations>
     
 </pokemon>

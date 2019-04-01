@@ -10,9 +10,9 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Island">Seafoam Island<lvl min="29" max="29">level 29</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
-        <landmark n="Victory Road">Victory Road<lvl min="41" max="41">level 41</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
-        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="46" max="46">level 46</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
+        <landmark n="Seafoam Island">Seafoam Island<lvl min="29" max="29"> level 29</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="41" max="41"> level 41</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="46" max="46"> level 46</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
     </locations>
     
 </pokemon>

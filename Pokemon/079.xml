@@ -9,10 +9,10 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="28" max="30">level 28-30</lvl><rate perc="40">encounter rate: 40%</rate></landmark>
-        <landmark n="Celadon City">Celadon City<lvl min="15" max="15">level 15</lvl><rate perc="50">encounter rate: 50%</rate></landmark>
-        <landmark n="Safari Zone">Safari Zone<lvl min="15" max="15">level 15</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
-        <route num="10">route 10<lvl min="15" max="15">level 15</lvl><rate perc="50">encounter rate: 50%</rate></route>
+        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="28" max="30"> level 28-30</lvl><rate perc="40"> encounter rate: 40%</rate></landmark>
+        <landmark n="Celadon City">Celadon City<lvl min="15" max="15"> level 15</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
+        <landmark n="Safari Zone">Safari Zone<lvl min="15" max="15"> level 15</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
+        <route num="10">route 10<lvl min="15" max="15"> level 15</lvl><rate perc="50"> encounter rate: 50%</rate></route>
     </locations>
     
     </pokemon>

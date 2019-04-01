@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="34" max="38">Level: 34-38</lvl><rate perc="10">Enocunter rate: 10%</rate></landmark>
+        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="34" max="38"> level: 34-38</lvl><rate perc="10"> enocunter rate: 10%</rate></landmark>
     </locations>
     
 </pokemon>

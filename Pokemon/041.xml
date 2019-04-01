@@ -10,10 +10,10 @@
     </info>
     
     <locations>
-        <landmark n="Mt. Moon">Mt. Moon<lvl min="6" max="11">level 6-11</lvl><rate perc="79">encounter rate: 79%</rate></landmark>
-        <landmark n="Rock Tunnel">Rock Tunnel<lvl min="15" max="18">level 15-18</lvl><rate perc="55">encounter rate: 55%</rate></landmark>
-        <landmark n="Seafoam Island">Seafoam Island<lvl min="21" max="21">level 21</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
-        <landmark n="Victory Road">Victory Road<lvl min="22" max="22">level 22</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
+        <landmark n="Mt. Moon">Mt. Moon<lvl min="6" max="11"> level 6-11</lvl><rate perc="79"> encounter rate: 79%</rate></landmark>
+        <landmark n="Rock Tunnel">Rock Tunnel<lvl min="15" max="18"> level 15-18</lvl><rate perc="55"> encounter rate: 55%</rate></landmark>
+        <landmark n="Seafoam Island">Seafoam Island<lvl min="21" max="21"> level 21</lvl><rate perc="10"> encounter rate: 10%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="22" max="22"> level 22</lvl><rate perc="15"> encounter rate: 15%</rate></landmark>
     </locations>
     
 </pokemon>

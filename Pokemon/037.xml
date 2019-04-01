@@ -10,9 +10,9 @@
     </info>
     
     <locations>
-        <route num="7">Route 7<lvl min="18" max="20"> level 18-20</lvl><rate perc="10">encounter rate: 10%</rate></route>
-        <route num="8">Route 8<lvl min="15" max="18"> level 15-18</lvl><rate perc="20">encounter rate: 20%</rate></route>
-        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="34" max="34">level 34</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
+        <route num="7">Route 7<lvl min="18" max="20"> level 18-20</lvl><rate perc="10"> encounter rate: 10%</rate></route>
+        <route num="8">Route 8<lvl min="15" max="18"> level 15-18</lvl><rate perc="20"> encounter rate: 20%</rate></route>
+        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="34" max="34"> level 34</lvl><rate perc="10"> encounter rate: 10%</rate></landmark>
     </locations>
     
 </pokemon>

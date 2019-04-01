@@ -10,11 +10,11 @@
     </info>
     
     <locations>
-        <route num="12">Route 12<lvl min="24" max="26"> level 24-26</lvl><rate perc="20">encounter rate: 20%</rate></route>
-        <route num="13">Route 13<lvl min="24" max="26"> level 24-26</lvl><rate perc="20">encounter rate: 20%</rate></route>
-        <route num="14">Route 14<lvl min="24" max="26"> level 24-26</lvl><rate perc="20">encounter rate: 20%</rate></route>
-        <route num="15">Route 15<lvl min="26" max="28"> level 26-28</lvl><rate perc="20">encounter rate: 20%</rate></route>
-        <landmark n="Safari Zone">Safari Zone<lvl min="22" max="22">level 22</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
+        <route num="12">Route 12<lvl min="24" max="26"> level 24-26</lvl><rate perc="20"> encounter rate: 20%</rate></route>
+        <route num="13">Route 13<lvl min="24" max="26"> level 24-26</lvl><rate perc="20"> encounter rate: 20%</rate></route>
+        <route num="14">Route 14<lvl min="24" max="26"> level 24-26</lvl><rate perc="20"> encounter rate: 20%</rate></route>
+        <route num="15">Route 15<lvl min="26" max="28"> level 26-28</lvl><rate perc="20"> encounter rate: 20%</rate></route>
+        <landmark n="Safari Zone">Safari Zone<lvl min="22" max="22"> level 22</lvl><rate perc="15"> encounter rate: 15%</rate></landmark>
     </locations>
     
 </pokemon>

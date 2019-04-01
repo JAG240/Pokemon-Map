@@ -10,8 +10,8 @@
     </info>
     
     <locations>
-        <landmark n="Rock Tunnel">Rock Tunnel<lvl min="15" max="17">level 15-17</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
-        <landmark n="Victory Road">Victory Road<lvl min="24" max="24">level 24</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
+        <landmark n="Rock Tunnel">Rock Tunnel<lvl min="15" max="17"> level 15-17</lvl><rate perc="15"> encounter rate: 15%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="24" max="24"> level 24</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
     </locations>
     
 </pokemon>

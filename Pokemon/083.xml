@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Vermilion City">Vermilion City<lvl min="1" max="100">level same as traded pokemon</lvl></landmark>
+        <landmark n="Vermilion City">Vermilion City<lvl min="1" max="100"> level same as traded pokemon</lvl></landmark>
     </locations>
     
     </pokemon>

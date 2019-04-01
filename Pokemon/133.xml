@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Celadon Mansion">Cerulean Cave<lvl min="25" max="25">level 25</lvl></landmark>
+        <landmark n="Celadon Mansion">Celadon Mansion<lvl min="25" max="25"> level 25</lvl></landmark>
     </locations>
     
     </pokemon>

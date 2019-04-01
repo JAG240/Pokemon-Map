@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Island">Seafoam Island<lvl min="50" max="50">level: 50</lvl></landmark>
+        <landmark n="Seafoam Island">Seafoam Island<lvl min="50" max="50"> level: 50</lvl></landmark>
     </locations>
     
     </pokemon>

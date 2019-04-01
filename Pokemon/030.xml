@@ -10,7 +10,7 @@
     </info>
     
     <locations>
-        <landmark n="Safari Zone">Safari Zone<lvl min="31" max="31">level 31</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
+        <landmark n="Safari Zone">Safari Zone<lvl min="31" max="31"> level 31</lvl><rate perc="10"> encounter rate: 10%</rate></landmark>
     </locations>
     
 </pokemon>

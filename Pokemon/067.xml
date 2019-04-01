@@ -10,7 +10,7 @@
     </info>
     
     <locations>
-        <landmark n="Victory Road">Victory Road<lvl min="42" max="42">level 42</lvl><rate perc="4">encounter rate: 4%</rate></landmark>
+        <landmark n="Victory Road">Victory Road<lvl min="42" max="42"> level 42</lvl><rate perc="4"> encounter rate: 4%</rate></landmark>
     </locations>
     
 </pokemon>

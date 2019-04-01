@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="37" max="42"> level 37-42</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
+        <landmark n="Pokemon Mansion">Pokemon Mansion<lvl min="37" max="42"> level 37-42</lvl><rate perc="15"> encounter rate: 15%</rate></landmark>
     </locations>
     
     </pokemon>

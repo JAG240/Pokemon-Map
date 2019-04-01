@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="30" max="38">level 30-38</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
+        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="30" max="38"> level 30-38</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
     </locations>
     
     </pokemon>

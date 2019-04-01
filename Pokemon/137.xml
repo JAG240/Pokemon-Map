@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Celadon Game Corner">Celadon Game Corner<lvl min="18" max="26">level: 18-26</lvl></landmark>
+        <landmark n="Celadon Game Corner">Celadon Game Corner<lvl min="18" max="26"> level: 18-26</lvl></landmark>
     </locations>
     
     </pokemon>

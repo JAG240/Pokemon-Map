@@ -10,8 +10,8 @@
     </info>
     
     <locations>
-        <landmark n="Mt. Moon">Mt. Moon<lvl min="8" max="8">level 8</lvl><rate perc="1">encounter rate: 1%</rate></landmark>
-        <landmark n="Celadon Game Center">Celadon Game Center<lvl min="8" max="8">level 8</lvl><rate perc="50">encounter rate: 50%</rate></landmark>
+        <landmark n="Mt. Moon">Mt. Moon<lvl min="8" max="8"> level 8</lvl><rate perc="1"> encounter rate: 1%</rate></landmark>
+        <landmark n="Celadon Game Center">Celadon Game Center<lvl min="8" max="8"> level 8</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
     </locations>
     
 </pokemon>

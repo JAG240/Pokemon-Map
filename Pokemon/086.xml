@@ -9,8 +9,8 @@
     </info>
     
     <locations>
-        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="28" max="32">level 28-32</lvl><rate perc="40">encounter rate: 40%</rate></landmark>
-        <landmark n="Pokemon Lab">Pokemon Lab<lvl min="1" max="100">level same as traded pokemon</lvl></landmark>
+        <landmark n="Seafoam Islands">Seafoam Islands<lvl min="28" max="32"> level 28-32</lvl><rate perc="40"> encounter rate: 40%</rate></landmark>
+        <landmark n="Pokemon Lab">Pokemon Lab<lvl min="1" max="100"> level same as traded pokemon</lvl></landmark>
     </locations>
     
     </pokemon>

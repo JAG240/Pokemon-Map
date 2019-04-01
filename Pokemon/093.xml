@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Pokemon Tower">Pokemon Tower<lvl min="20" max="30">level 20-30</lvl><rate perc="15">enocunter rate: 15%</rate></landmark>
+        <landmark n="Pokemon Tower">Pokemon Tower<lvl min="20" max="30"> level 20-30</lvl><rate perc="15"> enocunter rate: 15%</rate></landmark>
     </locations>
     
     </pokemon>

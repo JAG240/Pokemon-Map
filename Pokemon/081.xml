@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Power Plant">Power Plant<lvl min="21" max="23">level 21-23</lvl><rate perc="40">encounter rate: 40%</rate></landmark>
+        <landmark n="Power Plant">Power Plant<lvl min="21" max="23"> level 21-23</lvl><rate perc="40"> encounter rate: 40%</rate></landmark>
     </locations>
     
     </pokemon>

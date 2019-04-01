@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Pokemon Tower">Pokemon tower<lvl min="20" max="22"> level 20,22</lvl><rate perc="9">encounter rate: 9%</rate></landmark>
+        <landmark n="Pokemon Tower">Pokemon Tower<lvl min="20" max="22"> level 20,22</lvl><rate perc="9"> encounter rate: 9%</rate></landmark>
     </locations>
     
     </pokemon>

@@ -9,11 +9,11 @@
     </info>
     
     <locations>
-        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="53" max="67">level 53-67</lvl><rate perc="15">encounter rate: 15%</rate></landmark>
-        <route num="13">route 13<lvl min="25" max="25">level 25</lvl><rate perc="5">encounter rate: 5%</rate></route>
-        <route num="14">route 14<lvl min="23" max="23">level 23</lvl><rate perc="15">encounter rate: 15%</rate></route>
-        <route num="15">route 15<lvl min="26" max="26">level 26</lvl><rate perc="15">encounter rate: 15%</rate></route>
-        <route num="23">route 23<lvl min="33" max="43">level 25</lvl><rate perc="30">encounter rate: 30%</rate></route>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="53" max="67"> level 53-67</lvl><rate perc="15"> encounter rate: 15%</rate></landmark>
+        <route num="13">route 13<lvl min="25" max="25"> level 25</lvl><rate perc="5"> encounter rate: 5%</rate></route>
+        <route num="14">route 14<lvl min="23" max="23"> level 23</lvl><rate perc="15"> encounter rate: 15%</rate></route>
+        <route num="15">route 15<lvl min="26" max="26"> level 26</lvl><rate perc="15"> encounter rate: 15%</rate></route>
+        <route num="23">route 23<lvl min="33" max="43"> level 25</lvl><rate perc="30"> encounter rate: 30%</rate></route>
     </locations>
     
     </pokemon>

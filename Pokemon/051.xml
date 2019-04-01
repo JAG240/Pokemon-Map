@@ -10,7 +10,7 @@
     </info>
     
     <locations>
-        <landmark n="Diglett's Cave">Diglett's Cave<lvl min="29" max="31">level 29-31</lvl><rate perc="5">encounter rate: 5%</rate></landmark>
+        <landmark n="Diglett's Cave">Diglett's Cave<lvl min="29" max="31"> level 29-31</lvl><rate perc="5"> encounter rate: 5%</rate></landmark>
     </locations>
     
 </pokemon>

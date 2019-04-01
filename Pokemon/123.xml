@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Safari Zone">Safari Zone<lvl min="23" max="28">level: 23-28</lvl><rate perc="4">Encounter rate: 4%</rate></landmark>
+        <landmark n="Safari Zone">Safari Zone<lvl min="23" max="28"> level: 23-28</lvl><rate perc="4"> encounter rate: 4%</rate></landmark>
         <landmark n="Celadon Game Corner">Celadon Game Corner<lvl min="25" max="25"></lvl></landmark>
     </locations>
     

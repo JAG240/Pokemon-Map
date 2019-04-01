@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <route num="2">Route 2<lvl min="0" max="100">Same level as traded pokemon</lvl></route>
+        <route num="2">Route 2<lvl min="1" max="100"> Same level as traded pokemon</lvl></route>
     </locations>
     
 </pokemon>

@@ -10,9 +10,8 @@
     </info>
     
     <locations>
-        <route num="24">Route 24<lvl min="8" max="8"> level 8</lvl><rate perc="15">encounter rate: 15%</rate></route>
-        <route num="25">Route 25<lvl min="7" max="9"> level 7-9</lvl><rate perc="15">encounter rate: 15%</rate></route>
-        <landmark n="Viridian Forest">Viridian Forest<lvl min="4" max="6">level 4,6</lvl><rate perc="35">encounter rate: 35%</rate></landmark>
+        <route num="24">Route 24<lvl min="8" max="8"> level 8</lvl><rate perc="15"> encounter rate: 15%</rate></route>
+        <route num="25">Route 25<lvl min="7" max="9"> level 7-9</lvl><rate perc="15"> encounter rate: 15%</rate></route>
     </locations>
     
 </pokemon>

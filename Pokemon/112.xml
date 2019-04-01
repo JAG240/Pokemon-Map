@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="52" max="55"> level 52,55</lvl><rate perc="10">encounter rate: 10%</rate></landmark>
+        <landmark n="Cerulean Cave">Cerulean Cave<lvl min="52" max="55"> level 52,55</lvl><rate perc="10"> encounter rate: 10%</rate></landmark>
     </locations>
     
     </pokemon>

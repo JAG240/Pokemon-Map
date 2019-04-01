@@ -9,8 +9,8 @@
     </info>
     
     <locations>
-        <landmark n="Celadon Game Corner">Celadon Game Corner<lvl min="18" max="24">level: 18-24</lvl></landmark>
-        <landmark n="Safari Zone">Safari Zone<lvl min="15" max="15">level: 15</lvl><rate perc="25">encounter rate: 25%</rate></landmark>
+        <landmark n="Celadon Game Corner">Celadon Game Corner<lvl min="18" max="24"> level: 18-24</lvl></landmark>
+        <landmark n="Safari Zone">Safari Zone<lvl min="15" max="15"> level: 15</lvl><rate perc="25"> encounter rate: 25%</rate></landmark>
     </locations>
     
     </pokemon>

@@ -9,7 +9,7 @@
     </info>
     
     <locations>
-        <landmark n="Silph Co.">Silph Co.<lvl min="15" max="15">level 15</lvl></landmark>
+        <landmark n="Silph Co.">Silph Co.<lvl min="15" max="15"> level 15</lvl></landmark>
     </locations>
     
     </pokemon>

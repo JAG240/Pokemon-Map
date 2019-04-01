@@ -10,7 +10,7 @@
     </info>
     
     <locations>
-        <route num="3">Route 3<lvl min="3" max="7"> level 3-7</lvl><rate perc="10">encounter rate: 10%</rate></route>
+        <route num="3">Route 3<lvl min="3" max="7"> level 3-7</lvl><rate perc="10"> encounter rate: 10%</rate></route>
     </locations>
     
 </pokemon>

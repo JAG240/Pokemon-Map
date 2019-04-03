@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<location type="city/town">
+    <name n="Cinnabar Island">Cinnabar Island</name>
+    <des>A town used to be here until it was swept away by an eruption.</des>
+    <PoI>
+
+        <place>
+            <placeName>Pokemon Mansion</placeName>
+            <des>The Pokémon Mansion is a decrepit, burned-down mansion on Cinnabar Island. It got
+                its name because a famous Pokémon Researcher once lived there. The Pokémon Mansion
+                has four different floors. Doors can be unlocked in the Mansion by pressing switches
+                hidden in <pokemon dexNum="150">Mewtwo</pokemon> statues. </des>
+        </place>
+
+        <place>
+            <placeName>Volcano</placeName>
+            <des>There is a volcano on Cinnabar Island which gives it its name. The volcano is a
+                prominent feature of the island, and is where the Cinnabar Gym is located, split
+                into two sections. One is inside of the volcano, and has an arena suspended over the
+                lava inside one of the chambers, while the other is atop the volcano's crater.</des>
+        </place>
+
+        <place>
+            <placeName>Cinnabar Gym</placeName>
+            <des>The Cinnabar Gym is the official Gym of Cinnabar Island, it is based on Fire-type
+                Pokémon and the Gym Leader is <pers>Blaine</pers>. Trainers who defeat him receive
+                the <item>Volcano Badge</item>. </des>
+        </place>
+
+    </PoI>
+</location>

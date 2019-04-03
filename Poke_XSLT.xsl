@@ -27,15 +27,19 @@
                         <link rel="stylesheet" type="text/css" href="../CSS/MainPage.css"/>
                         <link rel="stylesheet" type="text/css" href="../CSS/navBar.css"/>
                         <link rel="stylesheet" type="text/css" href="../CSS/aRef.css"/>
+                        <link rel="stylesheet" type="text/css" href="../CSS/pokemon.css"/>
+                        <xsl:comment>#include virtual="../HTML/Navbar_Poke.html" </xsl:comment>
                     </head>
                     <body>
+                        <div class="mon">
                         <!--ebb: This (below) is how you add a SSI with XSLT. See http://dh.obdurodon.org/ssi.xhtml for details. -->  
-                        <xsl:comment>#include virtual="Navbar_HTML.html" </xsl:comment>    <h1><xsl:apply-templates select="current()//name"/></h1> 
-                        <img alt="{current()//name}" src=""/>
-   <h2>Pokedex Number: <xsl:apply-templates select="current()//dexNum"/></h2>           <h2>Locations:</h2> 
+                        <h1><xsl:apply-templates select="current()//name"/></h1> 
+                        <img alt="{current()//name}" src="../Images/{current()//name}.png"/>
+   <h2>Pokedex Number: <xsl:apply-templates select="current()//dexNum"/></h2>     <h2>Type: <xsl:apply-templates select="current()//typing"/></h2>      <h2>Locations:</h2> 
   <ul>
     <xsl:apply-templates select="current()//locations"/>
   </ul>
+                        </div>
                     </body>
                 </html>
             </xsl:result-document>
@@ -46,7 +50,7 @@
        <li>Landmarks: <ul><a href=""><xsl:apply-templates select="landmark" mode="multi"/></a></ul></li>
      </xsl:if>
    <xsl:if test="count(child::landmark) = 1">
-       <li>Landmark: <xsl:apply-templates select="landmark"/></li>
+       <li>Landmark: <a href="../HTML/WIP.html"><xsl:apply-templates select="landmark"/></a></li>
    </xsl:if>
      <xsl:if test="child::route">
          <li>Routes: <ul><xsl:apply-templates select="route"/></ul>
@@ -54,10 +58,10 @@
      </xsl:if>
  </xsl:template>
     <xsl:template match="landmark" mode="multi">
-        <li><a href=""><xsl:apply-templates/></a></li>
+        <li><a href="../HTML/WIP.html"><xsl:apply-templates/></a></li>
     </xsl:template>
     <xsl:template match="route">
-        <li><a href=""><xsl:apply-templates/></a></li>
+        <li><a href="../HTML/WIP.html"><xsl:apply-templates/></a></li>
     </xsl:template>
    
 </xsl:stylesheet>

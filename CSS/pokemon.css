@@ -1,0 +1,22 @@
+.mon{
+    background-color:#ffffff;
+    width: 50%;
+    margin-top:60px;
+    margin-left:25%;
+}
+.mon h1{
+    color:#000000;
+    text-align:center;
+}
+.mon h2{
+    color:#000000;
+    text-align:center;
+}
+li{
+    list-style-type:none;
+    padding: 0;
+}
+ul{
+    list-style-type:none;
+    padding: 0;
+}

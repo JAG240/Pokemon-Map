@@ -31,6 +31,7 @@
                     <body>
                         <!--ebb: This (below) is how you add a SSI with XSLT. See http://dh.obdurodon.org/ssi.xhtml for details. -->  
                         <xsl:comment>#include virtual="Navbar_HTML.html" </xsl:comment>    <h1><xsl:apply-templates select="current()//name"/></h1> 
+                        <img alt="{current()//name}" src=""/>
    <h2>Pokedex Number: <xsl:apply-templates select="current()//dexNum"/></h2>           <h2>Locations:</h2> 
   <ul>
     <xsl:apply-templates select="current()//locations"/>
@@ -42,7 +43,7 @@
     </xsl:template>   
  <xsl:template match="locations">
      <xsl:if test="count(child::landmark) gt 1">
-       <li>Landmarks: <ul><xsl:apply-templates select="landmark" mode="multi"/></ul></li>
+       <li>Landmarks: <ul><a href=""><xsl:apply-templates select="landmark" mode="multi"/></a></ul></li>
      </xsl:if>
    <xsl:if test="count(child::landmark) = 1">
        <li>Landmark: <xsl:apply-templates select="landmark"/></li>
@@ -53,10 +54,10 @@
      </xsl:if>
  </xsl:template>
     <xsl:template match="landmark" mode="multi">
-        <li><xsl:apply-templates/></li>
+        <li><a href=""><xsl:apply-templates/></a></li>
     </xsl:template>
     <xsl:template match="route">
-        <li><xsl:apply-templates/></li>
+        <li><a href=""><xsl:apply-templates/></a></li>
     </xsl:template>
    
 </xsl:stylesheet>

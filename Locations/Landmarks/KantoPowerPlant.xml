@@ -6,11 +6,11 @@
         infested with electric Pokémon. The plant that generates all the energy for the Kanto
         region.</des>
     <encounters>
-        <pokemon dexNum="024">Pikachu</pokemon>
+        <pokemon dexNum="025">Pikachu</pokemon>
         <pokemon dexNum="026">Raichu</pokemon>
-        <pokemon dexNum="">Magnemite</pokemon>
-        <pokemon dexNum="">Magneton</pokemon>
-        <pokemon dexNum="">Voltorb</pokemon>
-        <pokemon dexNum="">Electabuzz</pokemon>
+        <pokemon dexNum="081">Magnemite</pokemon>
+        <pokemon dexNum="082">Magneton</pokemon>
+        <pokemon dexNum="100">Voltorb</pokemon>
+        <pokemon dexNum="125">Electabuzz</pokemon>
     </encounters>
 </location>

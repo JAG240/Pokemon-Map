@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<location type="landmark">
+    <name n="Safari Zone">Safari Zone</name>
+    <des>An amusement park outside Fuchsia City where many rare Pokémon can be observed in the wild.
+        Catch them in a popular game!</des>
+    <encounters>
+        <pokemon dexNum="029">Nidoran</pokemon>
+        <pokemon dexNum="030">Nidorina</pokemon>
+        <pokemon dexNum="032">Nidoran</pokemon>
+        <pokemon dexNum="033">Nidorino</pokemon>
+        <pokemon dexNum="047">Parasect</pokemon>
+        <pokemon dexNum="048">Venonat</pokemon>
+        <pokemon dexNum="102">Exeggcute</pokemon>
+        <pokemon dexNum="111">Rhyhorn</pokemon>
+        <pokemon dexNum="113">Chansey</pokemon>
+        <pokemon dexNum="123">Scyther</pokemon>
+        <pokemon dexNum="127">Pinsir</pokemon>
+    </encounters>
+</location>

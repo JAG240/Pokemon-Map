@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<location type="landmark">
+    <name n="Kanto Power Plant">Kanto Power Plant</name>
+    <des>A power plant that was abandoned years ago, though some of the machines still work. It is
+        infested with electric Pokémon. The plant that generates all the energy for the Kanto
+        region.</des>
+    <encounters>
+        <pokemon dexNum="024">Pikachu</pokemon>
+        <pokemon dexNum="026">Raichu</pokemon>
+        <pokemon dexNum="">Magnemite</pokemon>
+        <pokemon dexNum="">Magneton</pokemon>
+        <pokemon dexNum="">Voltorb</pokemon>
+        <pokemon dexNum="">Electabuzz</pokemon>
+    </encounters>
+</location>

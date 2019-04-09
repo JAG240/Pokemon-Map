@@ -9,8 +9,10 @@
         are forced to board their <item>Bicycle</item> or, in the event that they do not own a
             <item>Bicycle</item>, are forced to return east to <pref>Celadon</pref>.</des>
     <encounters>
-        <pokemon dexNum=""></pokemon>
-        <pokemon dexNum=""></pokemon>
-        <pokemon dexNum=""></pokemon>
+        <pokemon dexNum="019">Rattata</pokemon>
+        <pokemon dexNum="020">Raticate</pokemon>
+        <pokemon dexNum="021">Spearrow</pokemon>
+        <pokemon dexNum="084">doduo</pokemon>
+        <pokemon dexNum="143">Snorlax</pokemon>
     </encounters>
 </location>

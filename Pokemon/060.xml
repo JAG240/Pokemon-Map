@@ -33,7 +33,7 @@
         <landmark n="Celadon City">Celadon City<lvl min="10" max="10"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
         <landmark n="Fuchsia City">Fuchsia City<lvl min="10" max="10"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
         <landmark n="Safari Zone">Safari Zone<lvl min="10" max="10"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
-        <landmark n="Seafoam Island">Seafoam Island<lvl min="10" max="100"> level 100</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
+        <landmark n="Seafoam Island">Seafoam Island<lvl min="10" max="100"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
         <landmark n="Cinnabar Island">Cinnabar Island<lvl min="10" max="10"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
         <landmark n="Indigo Plateau">Indigo Plateau<lvl min="10" max="10"> level 10</lvl><rate perc="50"> encounter rate: 50%</rate></landmark>
     </locations>

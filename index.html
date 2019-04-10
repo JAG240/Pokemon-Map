@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Pokemon Map</title>
+        <link rel="shortcut icon" href="Images/Pokeball.PNG"/>
         <meta charset="UTF-8" />
         <meta name="Pokemon Team" content="The Pokemon Map" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,6 +14,8 @@
         <div class="main">
         <h1>Hello there! Welcome to the world of Pokemon!</h1>
         <img src="Images/Kanto.jpg" alt="Kanto Map" usemap="#Kanto"/>
+            <div class="flex">
+            <div class="kanto" style="flex-grow: 1">
         <map name="Kanto" id="Kanto">
             <area alt="Pallet Town" title="Pallet Town" href="HTML/palletTown.html" shape="rect" coords="461,546,502,588" />
             <area alt="Route 1" title="Route 1" href="HTML/WIP.html" shape="rect" coords="461,455,499,538" />
@@ -61,6 +64,11 @@
             <area alt="Johto" title="Johto" href="HTML/WIP.html" shape="rect" coords="117,403,278,453" />
             <area alt="Johto" title="Johto" href="HTML/WIP.html" shape="rect" coords="2,494,271,637" />
         </map>
+            </div>
+            <div class="iframe">
+                <iframe src="HTML/WIP.html" style="flex-grow: 3;"/>
+            </div>
+            </div>
             </div>
     </body>
 </html>

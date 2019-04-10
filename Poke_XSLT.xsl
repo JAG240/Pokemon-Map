@@ -24,6 +24,7 @@
                         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                         <meta name="Pokemon Team" content="The Pokemon Map" />
                         <title><xsl:apply-templates select="current()//name"/></title>
+                        <link rel="shortcut icon" href="../Images/Pokeball.PNG"/>
                         <link rel="stylesheet" type="text/css" href="../CSS/MainPage.css"/>
                         <link rel="stylesheet" type="text/css" href="../CSS/navBar.css"/>
                         <link rel="stylesheet" type="text/css" href="../CSS/aRef.css"/>

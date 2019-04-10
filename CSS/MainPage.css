@@ -24,3 +24,9 @@ h1{
 area a:hover{
     background-color:#ffffff;
 }
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: nowrap;
+}

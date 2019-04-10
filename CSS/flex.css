@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+.flex > kanto {
+    flex-shrink: 10;
+}
+.flex > map {
+    flex-shrink: 10;
+}
+.flex > area {
+    flex-shrink: 10;
+}

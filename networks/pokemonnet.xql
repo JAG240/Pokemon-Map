@@ -19,8 +19,8 @@ let $odexNum := $o/@dexNum ! string()
 let $otype := $pokemoncol//dexNum[@num=$odexNum]/following-sibling::typing/@type ! tokenize(., "\s+")
 for $t in $otype
 
-return concat($d, "&#x9;", $n, "&#x9;", $dexNum, "&#x9;", $p, "&#x9;", $loctype, "&#x9;", $o, "&#x9;", $odexNum, "&#x9;", $t), "&#x10;")
-;
+return concat($d, "&#x9;", $n, "&#x9;", $dexNum, "&#x9;", $p, "&#x9;", $loctype, "&#x9;", $o, "&#x9;", $odexNum, "&#x9;", $t), "&#10;") ;
+
 let $filename := "pokenet.tsv"
 let $doc-db-uri := xmldb:store("/db/alc256", $filename, $thisfilecontent, "text/plain")
 return $doc-db-uri

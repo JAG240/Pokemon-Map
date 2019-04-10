@@ -1,0 +1,175 @@
+Grass	Bulbasaur	001	Pallet Town	city/town
+Grass	Oddish	043	Route 15	route
+Grass	Oddish	043	Route 14	route
+Grass	Oddish	043	Route 13	route
+Grass	Gloom	044	Route 15	route
+Grass	Gloom	044	Route 14	route
+Grass	Gloom	044	Route 13	route
+Grass	Parasect	047	Safari Zone	landmark
+Grass	Exeggcute	102	Safari Zone	landmark
+Grass	Bellsprout	069	Route 15	route
+Grass	Bellsprout	069	Route 14	route
+Grass	Bellsprout	069	Route 13	route
+Grass	Weepinbell	070	Route 15	route
+Grass	Weepinbell	070	Route 14	route
+Grass	Weepinbell	070	Route 13	route
+Poison	Bulbasaur	001	Pallet Town	city/town
+Poison	Weedle	013	Viridian Forest	landmark
+Poison	Kakuna	014	Viridian Forest	landmark
+Poison	Arbok	024	Cerulean Cave	landmark
+Poison	Nidoran-Female	029	Safari Zone	landmark
+Poison	Nidorina	030	Safari Zone	landmark
+Poison	Nidorina	030	Celadon Game Corner	landmark
+Poison	Nidoran-Male	032	Safari Zone	landmark
+Poison	Nidorino	033	Safari Zone	landmark
+Poison	Nidorino	033	Celadon Game Corner	landmark
+Poison	Nidorino	033	Lavender Town	city/town
+Poison	Zubat	041	Victory Road	landmark
+Poison	Zubat	041	Seafoam I	landmark
+Poison	Zubat	041	Rock Tunnel	landmark
+Poison	Golbat	042	Victory Road	landmark
+Poison	Golbat	042	Seafoam I	landmark
+Poison	Oddish	043	Route 15	route
+Poison	Oddish	043	Route 14	route
+Poison	Oddish	043	Route 13	route
+Poison	Gloom	044	Route 15	route
+Poison	Gloom	044	Route 14	route
+Poison	Gloom	044	Route 13	route
+Poison	Venonat	048	Route 15	route
+Poison	Venonat	048	Route 14	route
+Poison	Venonat	048	Route 13	route
+Poison	Venonat	048	Safari Zone	landmark
+Poison	Venomoth	049	Victory Road	landmark
+Poison	Bellsprout	069	Route 15	route
+Poison	Bellsprout	069	Route 14	route
+Poison	Bellsprout	069	Route 13	route
+Poison	Weepinbell	070	Route 15	route
+Poison	Weepinbell	070	Route 14	route
+Poison	Weepinbell	070	Route 13	route
+Poison	Tentacool	072	Route 13	route
+Fire	Charmander	004	Pallet Town	city/town
+Fire	Moltres	146	Victory Road	landmark
+Flying	Pidgey	016	Route 15	route
+Flying	Pidgey	016	Route 14	route
+Flying	Pidgey	016	Route 13	route
+Flying	Pidgey	016	route 1	route
+Flying	Pidgeotto	017	Route 15	route
+Flying	Pidgeotto	017	Route 14	route
+Flying	Zubat	041	Victory Road	landmark
+Flying	Zubat	041	Seafoam I	landmark
+Flying	Zubat	041	Rock Tunnel	landmark
+Flying	Golbat	042	Victory Road	landmark
+Flying	Golbat	042	Seafoam I	landmark
+Flying	Scyther	123	Safari Zone	landmark
+Flying	Scyther	123	Celadon Game Corner	landmark
+Flying	Articuno	144	Seafoam I	landmark
+Flying	Moltres	146	Victory Road	landmark
+Water	Squirtle	007	Pallet Town	city/town
+Water	Horsea	116	Seafoam I	landmark
+Water	Horsea	116	Celadon Game Corner	landmark
+Water	Seadra	117	Seafoam I	landmark
+Water	Goldeen	118	Route 14	route
+Water	Goldeen	118	Route 13	route
+Water	Goldeen	118	Seafoam I	landmark
+Water	Staryu	120	Seafoam I	landmark
+Water	Magikarp	129	Route 14	route
+Water	Magikarp	129	Route 13	route
+Water	Magikarp	129	Seafoam I	landmark
+Water	Lapras	131	Fuchsia City	city/town
+Water	Omanyte	138	Fuchsia City	city/town
+Water	Kabuto	140	Fuchsia City	city/town
+Water	Psyduck	054	Seafoam I	landmark
+Water	Psyduck	054	Lavender Town	city/town
+Water	Golduck	055	Seafoam I	landmark
+Water	Poliwag	060	Route 14	route
+Water	Poliwag	060	Route 13	route
+Water	Poliwag	060	Seafoam I	landmark
+Water	Tentacool	072	Route 13	route
+Water	Slowpoke	079	Seafoam I	landmark
+Water	Slowpoke	079	Fuchsia City	city/town
+Water	Slowbro	080	Seafoam I	landmark
+Water	Seel	086	Seafoam I	landmark
+Water	Dewgong	087	Seafoam I	landmark
+Water	Shellder	090	Seafoam I	landmark
+Water	Krabby	098	Route 13	route
+Water	Krabby	098	Seafoam I	landmark
+Water	Kingler	099	Seafoam I	landmark
+Bug	Caterpie	010	Viridian Forest	landmark
+Bug	Metapod	011	Viridian Forest	landmark
+Bug	Weedle	013	Viridian Forest	landmark
+Bug	Kakuna	014	Viridian Forest	landmark
+Bug	Parasect	047	Safari Zone	landmark
+Bug	Venonat	048	Route 15	route
+Bug	Venonat	048	Route 14	route
+Bug	Venonat	048	Route 13	route
+Bug	Venonat	048	Safari Zone	landmark
+Bug	Venomoth	049	Victory Road	landmark
+Bug	Scyther	123	Safari Zone	landmark
+Bug	Scyther	123	Celadon Game Corner	landmark
+Bug	Pinsir	127	Safari Zone	landmark
+Bug	Pinsir	127	Celadon Game Corner	landmark
+Normal	Pidgey	016	Route 15	route
+Normal	Pidgey	016	Route 14	route
+Normal	Pidgey	016	Route 13	route
+Normal	Pidgey	016	route 1	route
+Normal	Pidgeotto	017	Route 15	route
+Normal	Pidgeotto	017	Route 14	route
+Normal	Rattata	019	route 1	route
+Normal	Chansey	113	Safari Zone	landmark
+Normal	Chansey	113	Fuchsia City	city/town
+Normal	Kangaskhan	115	Fuchsia City	city/town
+Normal	Ditto	132	Route 15	route
+Normal	Ditto	132	Route 14	route
+Normal	Ditto	132	Route 13	route
+Normal	Eevee	133	Celadon City	city/town
+Normal	Eevee	133	Pallet Town	city/town
+Normal	Porygon	137	Celadon Game Corner	landmark
+Normal	Snorlax	143	Rock Tunnel	landmark
+Electric	Pikachu	025	Viridian Forest	landmark
+Electric	Pikachu	025	Kanto Power Plant	landmark
+Electric	Pikachu	025	Celadon Game Corner	landmark
+Electric	Pikachu	025	Pallet Town	city/town
+Electric	Raichu	026	Kanto Power Plant	landmark
+Electric	Raichu	026	Cerulean Cave	landmark
+Electric	Electabuzz	125	Kanto Power Plant	landmark
+Electric	Magnemite	081	Kanto Power Plant	landmark
+Electric	Magneton	082	Kanto Power Plant	landmark
+Electric	Voltorb	100	Kanto Power Plant	landmark
+Electric	Voltorb	100	Fuchsia City	city/town
+Ground	Marowak	105	Victory Road	landmark
+Ground	Rhyhorn	111	Safari Zone	landmark
+Ground	Geodude	074	Victory Road	landmark
+Ground	Geodude	074	Rock Tunnel	landmark
+Ground	Onix	095	Victory Road	landmark
+Ground	Onix	095	Rock Tunnel	landmark
+Ground	Graveler	075	Victory Road	landmark
+Fairy	Clefairy	035	Celadon Game Corner	landmark
+Fairy	Clefable	036	Celadon Game Corner	landmark
+Psychic	Exeggcute	102	Safari Zone	landmark
+Psychic	Mewtwo	150	Cerulean Cave	landmark
+Psychic	Mewtwo	150	Cinnabar Island	city/town
+Psychic	Abra	063	Celadon Game Corner	landmark
+Psychic	Slowpoke	079	Seafoam I	landmark
+Psychic	Slowpoke	079	Fuchsia City	city/town
+Psychic	Slowbro	080	Seafoam I	landmark
+Fighting	Hitmonlee	106	Saffron City	city/town
+Fighting	Hitmonchan	107	Saffron City	city/town
+Fighting	Machop	066	Victory Road	landmark
+Fighting	Machop	066	Rock Tunnel	landmark
+Fighting	Machoke	067	Victory Road	landmark
+Rock	Rhyhorn	111	Safari Zone	landmark
+Rock	Omanyte	138	Fuchsia City	city/town
+Rock	Kabuto	140	Fuchsia City	city/town
+Rock	Geodude	074	Victory Road	landmark
+Rock	Geodude	074	Rock Tunnel	landmark
+Rock	Onix	095	Victory Road	landmark
+Rock	Onix	095	Rock Tunnel	landmark
+Rock	Graveler	075	Victory Road	landmark
+Ice	Lapras	131	Fuchsia City	city/town
+Ice	Articuno	144	Seafoam I	landmark
+Ice	Dewgong	087	Seafoam I	landmark
+Fire,	Moltres	146	Victory Road	landmark
+Dragon	Dratini	147	Celadon Game Corner	landmark
+Dragon	Dragonair	148	Celadon Game Corner	landmark
+Steel	Magnemite	081	Kanto Power Plant	landmark
+Steel	Magneton	082	Kanto Power Plant	landmark

@@ -2,13 +2,12 @@
 <?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="landmark">
     <name n="Safari Zone">Safari Zone</name>
-    <des>In the Safari Zone, when a wild Pokémon appears, <pers>Trainers</pers> cannot send out
-        Pokémon to battle it. Instead, <pers>Trainers</pers> must face Pokémon only with simple
-        tools, and catching a Pokémon becomes much more reliant on luck, as Pokémon are able to run
-        away from the <pers>Trainer</pers> at any time. <pers>Trainers</pers> may throw
-            <item>Bait</item> to make a Pokémon less likely to run, but this also makes it harder to
-        catch. Conversely, throwing <item>Rocks</item> will make a Pokémon easier to catch but more
-        likely to run.</des>
+    <des>In the <pref>Safari Zone</pref>, when a wild Pokémon appears, Trainers cannot send out
+        Pokémon to battle it. Instead, Trainers must face Pokémon only with simple tools, and
+        catching a Pokémon becomes much more reliant on luck, as Pokémon are able to run away from
+        the Trainer at any time. Trainers may throw <item>Bait</item> to make a Pokémon less likely
+        to run, but this also makes it harder to catch. Conversely, throwing <item>Rocks</item> will
+        make a Pokémon easier to catch but more likely to run.</des>
     <encounters>
         <pokemon dexNum="029">Nidoran</pokemon>
         <pokemon dexNum="030">Nidorina</pokemon>

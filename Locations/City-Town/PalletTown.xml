@@ -9,8 +9,8 @@
             <des>In the southeast corner of town is Professor Oak's Lab. Here, Pokémon Trainers just
                 beginning their quest are given the choice to receive either a <pokemon dexNum="001"
                     >Bulbasaur</pokemon>, <pokemon dexNum="004">Charmander</pokemon>, or <pokemon
-                    dexNum="007">Squirtle</pokemon> from Professor Oak. On the occasion that
-                Professor Oak is out of the previously listed Pokémon, he has been seen to hand out
+                    dexNum="007">Squirtle</pokemon> from <pers>Professor Oak</pers>. On the occasion that
+                <pers>Professor Oak</pers> is out of the previously listed Pokémon, he has been seen to hand out
                     <pokemon dexNum="025">Pikachu</pokemon> and <pokemon dexNum="133"
                     >Eevee</pokemon>. This is also the location of <pers>Red's</pers> first battle,
                 which was against his rival, <pers>Blue</pers>.</des>
@@ -33,3 +33,4 @@
 
     </PoI>
 </location>
+

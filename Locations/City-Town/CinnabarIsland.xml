@@ -7,23 +7,25 @@
 
         <place>
             <placeName>Pokemon Mansion</placeName>
-            <des>The Pokémon Mansion is a decrepit, burned-down mansion on Cinnabar Island. It got
-                its name because a famous Pokémon Researcher once lived there. The Pokémon Mansion
-                has four different floors. Doors can be unlocked in the Mansion by pressing switches
-                hidden in <pokemon dexNum="150">Mewtwo</pokemon> statues. </des>
+            <des>The <pref>Pokémon Mansion</pref> is a decrepit, burned-down mansion on
+                    <pref>Cinnabar Island</pref>. It got its name because a famous <pref>Pokémon
+                    Researcher</pref> once lived there. The <pref>Pokémon Mansion</pref> has four
+                different floors. Doors can be unlocked in the Mansion by pressing switches hidden
+                in <pokemon dexNum="150">Mewtwo</pokemon> statues. </des>
         </place>
 
         <place>
             <placeName>Volcano</placeName>
-            <des>There is a volcano on Cinnabar Island which gives it its name. The volcano is a
-                prominent feature of the island, and is where the Cinnabar Gym is located, split
-                into two sections. One is inside of the volcano, and has an arena suspended over the
-                lava inside one of the chambers, while the other is atop the volcano's crater.</des>
+            <des>There is a volcano on <pref>Cinnabar Island</pref> which gives it its name. The
+                volcano is a prominent feature of the island, and is where the <pref>Cinnabar
+                    Gym</pref> is located, split into two sections. One is inside of the volcano,
+                and has an arena suspended over the lava inside one of the chambers, while the other
+                is atop the volcano's crater.</des>
         </place>
 
         <place>
             <placeName>Cinnabar Gym</placeName>
-            <des>The Cinnabar Gym is the official Gym of Cinnabar Island, it is based on Fire-type
+            <des>The <pref>Cinnabar Gym</pref> is the official Gym of <pref>Cinnabar Island</pref>, it is based on Fire-type
                 Pokémon and the Gym Leader is <pers>Blaine</pers>. Trainers who defeat him receive
                 the <item>Volcano Badge</item>. </des>
         </place>

@@ -4,7 +4,7 @@
     <route num="15">Route 15</route>
     <des>The route is separated into two halves by a long ledge, placing the northern half on a
         hill. The northern half can be accessed by using <item>Cut</item> to remove a tree at its
-        eastern entrance on Route 14. <pers>Trainers</pers> can travel from the northern half to the
+        eastern entrance on <pref>Route 14</pref>. Trainers can travel from the northern half to the
         southern half at any time by hopping the ledge; however, the reverse is not possible.</des>
     <encounters>
         <pokemon dexNum="016">Pidgey</pokemon>

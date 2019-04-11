@@ -7,10 +7,10 @@
 
         <place>
             <placeName>Safari Zone</placeName>
-            <des>The Safari Zone is a special Pokémon preserve where <pers>Trainers</pers> can enter
-                to capture certain types of Pokémon. It is owned by the Warden. For
+            <des>The <pref>Safari Zone</pref> is a special Pokémon preserve where Trainers can enter
+                to capture certain types of Pokémon. It is owned by the <pers>Warden</pers>. For
                     <item>PokémonDollar</item> 500, the <pers>player</pers> will receive 30
-                    <item>Safari Balls</item>. With a large area to cover, <pers>Trainers</pers>
+                    <item>Safari Balls</item>. With a large area to cover, Trainers
                 must plan out their destination so as to arrive in time to capture all the Pokémon
                 they want. </des>
         </place>
@@ -30,7 +30,7 @@
 
         <place>
             <placeName>Fuchsia Gym</placeName>
-            <des>The Fuchsia Gym is the official Gym of Fuchsia City. It is based on Poison-type
+            <des>The <pref>Fuchsia Gym</pref> is the official Gym of <pref>Fuchsia City</pref>. It is based on Poison-type
                 Pokémon. The Gym Leader is <pers>Koga</pers>.</des>
         </place>
 

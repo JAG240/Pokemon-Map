@@ -2,8 +2,8 @@
 <?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="landmark">
     <name n="Seafoam Island">Seafoam I</name>
-    <des>A pair of islands that is situated on Route 20. The two islands are shaped the same, as if they were twins.
-        Two small islands lightly floating in the ocean.</des>
+    <des>A pair of islands that is situated on Route 20. The two islands are shaped the same, as if
+        they were twins. Two small islands lightly floating in the ocean.</des>
     <encounters>
         <pokemon dexNum="041">Zubat</pokemon>
         <pokemon dexNum="042">Golbat</pokemon>

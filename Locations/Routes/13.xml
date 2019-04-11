@@ -2,12 +2,12 @@
 <?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="route">
     <route num="13">Route 13</route>
-    <des>The eastern terminus of Route 13 is actually located on part of the <pref>Silence Bridge</pref>. The
-        structure heads south, then west along a treeline before reaching solid ground near the
-        southeast corner of a large maze of fences that occupies the entire length of the route.
-        From this point westward, Trainers can no longer access the large water body that runs along
-        the southern edge of the route due to a series of shrubs and fences that line the
-        route.</des>
+    <des>The eastern terminus of <pref>Route 13</pref> is actually located on part of the
+            <pref>Silence Bridge</pref>. The structure heads south, then west along a treeline
+        before reaching solid ground near the southeast corner of a large maze of fences that
+        occupies the entire length of the route. From this point westward, Trainers can no longer
+        access the large water body that runs along the southern edge of the route due to a series
+        of shrubs and fences that line the route.</des>
     <encounters>
         <pokemon dexNum="016">Pidgey</pokemon>
         <pokemon dexNum="043">Oddish</pokemon>

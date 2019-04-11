@@ -2,8 +2,8 @@
 <?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="landmark">
     <name n="Victory Road">Victory Road</name>
-    <des>A tunnel situated on Route 23. It earned its name because it must be traveled by all
-        Trainers aiming for the top. A road that tests Trainers aiming at the Pokémon
+    <des>A tunnel situated on <pref>Route 23</pref>. It earned its name because it must be traveled
+        by all Trainers aiming for the top. A road that tests Trainers aiming at the Pokémon
         League.</des>
     <encounters>
         <pokemon dexNum="041">Zubat</pokemon>

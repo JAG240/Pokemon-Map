@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="landmark">
     <name n="Indigo Plateau">Indigo Plateau</name>
     <des>Serves as the capital for the Pokémon League in the Kanto region. It is the final

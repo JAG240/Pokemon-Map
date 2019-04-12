@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="landmark">
     <name n="Mt. Moon">Mt. Moon</name>
     <des><pref>Mt. Moon</pref> is known for being one of the few places where wild <pokemon

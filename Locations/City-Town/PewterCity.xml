@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="city/town">
     <name n="Pewter City">Pewter City</name>
     <des>A quiet city nestled between rugged mountains and rocks.</des>

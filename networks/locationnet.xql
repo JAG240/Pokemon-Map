@@ -19,7 +19,7 @@ let $odexNum := $o/@dexNum ! string()
 let $otype := $pokemoncol//dexNum[@num=$odexNum]/following-sibling::typing/@type ! tokenize(., "\s+")
 for $t in $otype :)
 
-return concat($d, "&#x9;", $n, "&#x9;", $dexNum, "&#x9;", $p, "&#x9;", $loctype), "&#10;") ;
+return concat($d, "&#x9;", "pokemon", "&#x9;", $n, "&#x9;", $dexNum, "&#x9;", $p, "&#x9;", "place", "&#x9;", $loctype), "&#10;") ;
 
 let $filename := "locationnet.tsv"
 let $doc-db-uri := xmldb:store("/db/alc256", $filename, $thisfilecontent, "text/plain")

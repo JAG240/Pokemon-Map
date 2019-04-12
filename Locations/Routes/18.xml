@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="route">
     <route num="18">Route 18</route>
     <des>Just outside <pref>Fuchsia</pref> is a small area south of the route's main path. Inside of

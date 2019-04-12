@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="route">
     <route num="23">Route 23</route>
     <des>Route 23 heads northeast, passing through the first of many archways on the route as well

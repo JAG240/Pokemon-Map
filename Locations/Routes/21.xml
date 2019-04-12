@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="route">
     <route num="21">Route 21</route>
     <des>From <pref>Pallet</pref>, the route begins as a small channel of water. South of the town,

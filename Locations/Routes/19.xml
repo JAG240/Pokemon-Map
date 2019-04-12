@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <location type="route">
     <route num="19">Route 19</route>
     <des>Heading south from <pref>Fuchsia City</pref>, <pref>Route 19</pref> becomes a dual

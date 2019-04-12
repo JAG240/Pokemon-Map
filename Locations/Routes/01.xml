@@ -10,6 +10,6 @@
     <encounters>
         <pokemon dexNum="016">Pidgey</pokemon>
         <pokemon dexNum="019">Rattata</pokemon>
-        <pokemon dexNum="25">Pikachu</pokemon>
+        <pokemon dexNum="025">Pikachu</pokemon>
     </encounters>
 </location>

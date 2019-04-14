@@ -145,6 +145,7 @@ Flying	pokemon	Spearow	021	route 4	place	route
 Flying	pokemon	Spearow	021	route 9	place	route
 Flying	pokemon	Spearow	021	route 10	place	route
 Flying	pokemon	Spearow	021	route 11	place	route
+Flying	pokemon	Spearow	021	Route 16	place	route
 Flying	pokemon	Zubat	041	Rock Tunnel	place	landmark
 Flying	pokemon	Zubat	041	Mt. Moon	place	landmark
 Flying	pokemon	Zubat	041	Seafoam I	place	landmark
@@ -163,6 +164,7 @@ Flying	pokemon	Fearow	022	Route 23	place	route
 Flying	pokemon	Farfetch'd	083	Vermilion City	place	city/town
 Flying	pokemon	Doduo	084	Route 17	place	route
 Flying	pokemon	Doduo	084	Route 18	place	route
+Flying	pokemon	Doduo	084	Route 16	place	route
 Flying	pokemon	Dodrio	085	Cerulean Cave	place	landmark
 Water	pokemon	Squirtle	007	Pallet Town	place	city/town
 Water	pokemon	Horsea	116	Celadon Game Corner	place	landmark
@@ -325,9 +327,11 @@ Normal	pokemon	Rattata	019	Route 22	place	route
 Normal	pokemon	Rattata	019	route 2	place	route
 Normal	pokemon	Rattata	019	route 4	place	route
 Normal	pokemon	Rattata	019	route 9	place	route
+Normal	pokemon	Rattata	019	Route 16	place	route
 Normal	pokemon	Raticate	020	Route 17	place	route
 Normal	pokemon	Raticate	020	Route 18	place	route
 Normal	pokemon	Raticate	020	Route 21	place	route
+Normal	pokemon	Raticate	020	Route 16	place	route
 Normal	pokemon	Spearow	021	Vermilion City	place	city/town
 Normal	pokemon	Spearow	021	Route 17	place	route
 Normal	pokemon	Spearow	021	Route 18	place	route
@@ -338,6 +342,7 @@ Normal	pokemon	Spearow	021	route 4	place	route
 Normal	pokemon	Spearow	021	route 9	place	route
 Normal	pokemon	Spearow	021	route 10	place	route
 Normal	pokemon	Spearow	021	route 11	place	route
+Normal	pokemon	Spearow	021	Route 16	place	route
 Normal	pokemon	Jigglypuff	039	route 3	place	route
 Normal	pokemon	Lickitung	108	Route 18	place	route
 Normal	pokemon	Chansey	113	Fuchsia City	place	city/town
@@ -352,6 +357,7 @@ Normal	pokemon	Eevee	133	Celadon City	place	city/town
 Normal	pokemon	Eevee	133	Pallet Town	place	city/town
 Normal	pokemon	Porygon	137	Celadon Game Corner	place	landmark
 Normal	pokemon	Snorlax	143	Rock Tunnel	place	landmark
+Normal	pokemon	Snorlax	143	Route 16	place	route
 Normal	pokemon	Fearow	022	Route 17	place	route
 Normal	pokemon	Fearow	022	Route 18	place	route
 Normal	pokemon	Fearow	022	Route 23	place	route
@@ -362,6 +368,7 @@ Normal	pokemon	Meowth	052	route 8	place	route
 Normal	pokemon	Farfetch'd	083	Vermilion City	place	city/town
 Normal	pokemon	Doduo	084	Route 17	place	route
 Normal	pokemon	Doduo	084	Route 18	place	route
+Normal	pokemon	Doduo	084	Route 16	place	route
 Normal	pokemon	Dodrio	085	Cerulean Cave	place	landmark
 Electric	pokemon	Pikachu	025	Kanto Power Plant	place	landmark
 Electric	pokemon	Pikachu	025	Pallet Town	place	city/town

@@ -1,14 +1,21 @@
 .flex{
     display: flex;
+    flex-direction: row;
     justify-content: flex-start;
     flex-wrap: nowrap;
+    padding:5px;
+    width:80%;
 }
-.flex > kanto {
+.flex > .kanto { flex:3;
     flex-shrink: 10;
 }
-.flex > map {
+.flex > .iframe {flex:1; flex-shrink:5;}
+
+img {width:100%;}
+
+/*.flex > map {
     flex-shrink: 10;
 }
 .flex > area {
     flex-shrink: 10;
-}
+}*/

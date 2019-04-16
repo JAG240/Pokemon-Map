@@ -8,7 +8,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="CSS/MainPage.css"/>
         <link rel="stylesheet" type="text/css" href="CSS/navBar.css"/>
-        <link rel="stylesheet" type="text/css" href="CSS/flex.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/flex.css"/>
+        <script type="text/javascript" src="JS/imageMapResize.js">/**/</script>
         <!--#include file="HTML/Navbar.html"-->
     </head>
     <body>
@@ -17,7 +18,8 @@
             
             <div class="flex">
             <div class="kanto">
-         <img src="Images/Kanto.jpg" alt="Kanto Map" usemap="#Kanto"/>
+         <img src="Images/Kanto.jpg" id="KantoMap" alt="Kanto Map" usemap="#Kanto"/>
+                <!--ebb: Image width is 1181 px. Set to 100% in CSS. -->
         <map name="Kanto" id="Kanto">
             <area alt="Pallet Town" title="Pallet Town" href="HTML/palletTown.html" target="mapInfo" shape="rect" coords="461,546,502,588" />
             <area alt="Route 1" title="Route 1" href="HTML/WIP.html" target="mapInfo" shape="rect" coords="461,455,499,538" />

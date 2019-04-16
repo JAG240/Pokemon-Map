@@ -1,15 +1,14 @@
 .flex{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     flex-wrap: nowrap;
     padding:5px;
-    width:80%;
+    width:100%;
 }
-.flex > .kanto { flex:3;
-    flex-shrink: 10;
+.flex > .kanto { flex-shrink: 10;
 }
-.flex > .iframe {flex:1; flex-shrink:5;}
+.flex > .iframe {flex-shrink:50; }
 
 img {width:100%;}
 

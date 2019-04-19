@@ -8,12 +8,10 @@
         omit-xml-declaration="yes"/> 
     
     <xsl:variable name="locations" as="document-node()+" select="collection('Locations/Routes/?select=*.xml')"/>
-    <xsl:variable name="encounters" select="current()//encounters"/>
-    <!--ebb: Above is a variable in XSLT, defining the collection of Pokemon files and including only the files ending with a .xml file extension. We will call it with a dollar sign below.  -->
+    <xsl:variable name="encounters" select="encounters"/>
     
     <xsl:template match="/">
         <xsl:for-each select="$locations//location">
-            <!--We make a new variable inside our xsl:for-each to collect each filename. We can alter it if you like.-->
             <xsl:variable name="filename">
                 <xsl:value-of select="tokenize(base-uri(), '/')[last()] ! substring-before(., '.xml')"/>
             </xsl:variable>
@@ -40,7 +38,7 @@
                             <p><xsl:apply-templates select="current()//des/string()"/></p>
                             <h2>Pokemon:</h2>
                             <ul>
-                                <xsl:for-each select="$encounters//pokemon">
+                                <xsl:for-each select="current()//pokemon">
                                     <li><a href ="../pokemonHTMLOutput/{current()//@*}.html"><xsl:apply-templates select="current()" mode="multi"/></a></li>
                                 </xsl:for-each>
                             </ul>

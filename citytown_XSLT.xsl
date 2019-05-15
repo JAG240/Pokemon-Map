@@ -37,6 +37,9 @@
                             <h1><xsl:apply-templates select="current()//name/string()"/></h1> 
                             <img alt="{current()//name/string()}" src="../Images/{current()//name/string()}.png"/>
                             <p><xsl:apply-templates select="current()//des/string()"/></p>
+                       <!--2019-05-15 ebb: The xsl:apply-templates lines above and below are causing problems in your city output: The line above is outputting each description one after another, all lumped inside one paragraph. 
+      In the line below, you are outputting the contents of the PoI element, which is most of the file all over again, inside a second paragraph. It's producing a doubled output.                 
+                       -->
                             <p><xsl:apply-templates select="current()//PoI/string()"/></p>
                             <h2>Mentioned Pokemon: </h2>
                             <xsl:for-each select="$PoI//pokemon">

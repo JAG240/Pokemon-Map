@@ -1,6 +1,6 @@
 # Pokemon Map Project Review
 
-Site publication: <http://bloodborne.newtfire.org/>
+Site publication: <http://pokemon.newtfire.org/>
 
 GitHub: <https://github.com/JAG240/Pokemon-Map>
 
